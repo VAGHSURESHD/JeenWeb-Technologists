@@ -1,0 +1,260 @@
+# Copyright (C) 2022 Jegstudio
+# This file is distributed under the GNU General Public License v3 or later..
+msgid ""
+msgstr ""
+"Project-Id-Version: Financio 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/financio\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-04-18T09:50:48+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: financio\n"
+
+#. Theme Name of the theme
+msgid "Financio"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://gutenverse.com/demo?name=financio"
+msgstr ""
+
+#. Description of the theme
+msgid "Financio is a simple, responsive, and professional looking theme template for WordPress fullsite editing and fully compatible with Gutenverse plugin. Financio's templates is built with layout/design that suit for Financial Service, Finance Company, Financial Advisor, Accountant, Insurance, Consulting Business or any other related business. The templates includes both core version and Gutenverse plugin version, also has core and Gutenverse block patterns ready so you can start mix and match your template parts as you desire. The templates is built ready so you don't need to build it from scratch. We want to make your experience using WordPress fullsite editor more convenient."
+msgstr ""
+
+#. Author of the theme
+msgid "Jegstudio"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://gutenverse.com"
+msgstr ""
+
+#: inc/class/class-block-patterns.php:57
+msgid "Financio Basic Patterns"
+msgstr ""
+
+#: inc/class/class-block-patterns.php:61
+msgid "Financio Gutenverse Patterns"
+msgstr ""
+
+#: inc/class/class-init.php:152
+#: inc/class/class-init.php:300
+msgid "Activate Gutenverse Plugin"
+msgstr ""
+
+#: inc/class/class-init.php:159
+#: inc/class/class-init.php:307
+msgid "Install Gutenverse Plugin"
+msgstr ""
+
+#: inc/class/class-init.php:241
+msgid "Thank you for installing Financio!"
+msgstr ""
+
+#: inc/class/class-init.php:242
+msgid "Financio theme work best with Gutenverse plugin. By installing Gutenverse plugin you may access Financio templates built with Gutenverse and get access to more than 40 free blocks."
+msgstr ""
+
+#: inc/class/class-init.php:248
+msgid "More Info"
+msgstr ""
+
+#: inc/class/class-init.php:293
+msgid "Install Gutenverse Version"
+msgstr ""
+
+#: inc/class/class-init.php:387
+msgid "Thank you for installing Gutenverse templates!"
+msgstr ""
+
+#: inc/class/class-init.php:389
+msgid "%1$s %2$s"
+msgstr ""
+
+#: inc/class/class-init.php:390
+msgid " Check out your tempates in "
+msgstr ""
+
+#: inc/class/class-init.php:394
+msgid "Fullsite Editor."
+msgstr ""
+
+#: inc/class/class-init.php:405
+msgid "Financio Template (Gutenverse version)"
+msgstr ""
+
+#: inc/class/class-init.php:406
+msgid "To get the best experience using Financio theme, you need to install and activate Gutenverse Plugin. With Gutenverse plugin installed, you gain access to Financio advance template and block patterns for free which all built using Gutenverse blocks. Also please backup your current templates if you have any changes to it, installing new template might overwrite or conflict with the current changes."
+msgstr ""
+
+#: inc/class/class-init.php:413
+msgid "View Live Demo →"
+msgstr ""
+
+#: inc/class/class-init.php:489
+msgid "Primary"
+msgstr ""
+
+#: inc/patterns/404.php:6
+msgid "404"
+msgstr ""
+
+#: inc/patterns/call-to-action.php:6
+msgid "Call to Action"
+msgstr ""
+
+#: inc/patterns/gutenverse-about-title.php:6
+msgid "Gutenverse About Title"
+msgstr ""
+
+#: inc/patterns/gutenverse-contact-title.php:6
+msgid "Gutenverse Contact Title"
+msgstr ""
+
+#: inc/patterns/gutenverse-cta.php:6
+msgid "Gutenverse Call to Action"
+msgstr ""
+
+#: inc/patterns/gutenverse-description.php:6
+msgid "Gutenverse Description"
+msgstr ""
+
+#: inc/patterns/gutenverse-faq-title.php:6
+msgid "Gutenverse FAQ Title"
+msgstr ""
+
+#: inc/patterns/gutenverse-faq.php:6
+msgid "Gutenverse FAQ"
+msgstr ""
+
+#: inc/patterns/gutenverse-feature.php:6
+msgid "Gutenverse Feature"
+msgstr ""
+
+#: inc/patterns/gutenverse-footer.php:6
+msgid "Gutenverse Footer"
+msgstr ""
+
+#: inc/patterns/gutenverse-header.php:6
+msgid "Gutenverse Header"
+msgstr ""
+
+#: inc/patterns/gutenverse-hero.php:6
+msgid "Gutenverse Hero"
+msgstr ""
+
+#: inc/patterns/gutenverse-section-1.php:6
+msgid "Gutenverse Section 1"
+msgstr ""
+
+#: inc/patterns/gutenverse-section-2.php:6
+msgid "Gutenverse Section 2"
+msgstr ""
+
+#: inc/patterns/gutenverse-service-title.php:6
+msgid "Gutenverse Service Title"
+msgstr ""
+
+#: inc/patterns/gutenverse-team.php:6
+msgid "Gutenverse Team"
+msgstr ""
+
+#: inc/patterns/gutenverse-testimonial.php:6
+msgid "Gutenverse Testimonial"
+msgstr ""
+
+#: inc/patterns/post-title.php:6
+msgid "Post Title"
+msgstr ""
+
+#: inc/patterns/section-1.php:6
+msgid "Section 1"
+msgstr ""
+
+#: inc/patterns/section-2.php:6
+msgid "Section 2"
+msgstr ""
+
+#: index.php:4
+msgid "This theme was built for the WordPress full-site-editing feature. You need to install and activate the Gutenberg plugin to make it work. "
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Heebo"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Third"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Forth"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Fifth"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Pink to Yellow"
+msgstr ""
